@@ -23,13 +23,13 @@ A MySQL Database for AI/ML/DS Jobs contains scraped data like jobs, company prof
 
 ### Running Jobs Scraping Bot
 
-Create a new virtual environment at `Artificial_Intelligence/` folder and install the requirements using the following command
+Create a new virtual environment at `AiJobsDatabase/` folder and install the requirements using the following command
 
 ```
 pip3 install -r requirements.txt
 ```
 
-Change directory to `AISkunksJobsDatabase/Artificial_Intelligence/JobsBot/JobsBot/JobsBot/spiders`. Update the required search keywords in the file `spiderCoordinator.py`. Run the following command to start scraping
+Change directory to `AiJobsDatabase/JobsBot/JobsBot/JobsBot/spiders`. Update the required search keywords in the file `spiderCoordinator.py`. Run the following command to start scraping
 
 ```
 scrapy crawl spiderCoordinator
