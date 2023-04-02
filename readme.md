@@ -43,9 +43,9 @@ scrapy crawl spiderCoordinator
   \
   &nbsp;
 
-| Team member        | Email                        |
-| ------------------ | ---------------------------- |
-| Asawari Kadam      | kadam.asa@northeastern.edu   |
-| Ashwini Khedkar    | khedkar.as@northeastern.edu  |
-| Hariharan Sundaram | sundaram.ha@northeastern.edu |
-| Vinay Prabhu       | prabhu.v@northeastern.edu    |
+| Team member        | 
+| ------------------ | 
+| Asawari Kadam      | 
+| Ashwini Khedkar    | 
+| Hariharan Sundaram | 
+| Vinay Prabhu       |
